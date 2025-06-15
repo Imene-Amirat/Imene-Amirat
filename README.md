@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Studying Software Engineering (M2) at University of Montpellier *(2025 – 2026)*
+- 🎓 Studying Software Engineering (M2) 
 - 💻 Interested in Backend Systems, APIs, Databases & Dockerized apps
 - 🚀 Always learning & building cool fullstack projects
 
