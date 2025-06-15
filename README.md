@@ -1,5 +1,3 @@
-## Hi there, I'm Imene 👋
-
 <h1 align="center">Hi there, I'm Imene! 👋</h1>
 
 <p align="center">
@@ -8,33 +6,33 @@
 </p>
 
 ---
+## ✨ <span style="font-size: 26px;">About Me</span>
 
-### 🧠 About Me
-
-- 🎓 Studying Software Engineering (M2) 
+- 🎓 Studying Software Engineering
 - 💻 Interested in Backend Systems, APIs, Databases & Dockerized apps
 - 🚀 Always learning & building cool fullstack projects
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 <span style="font-size: 26px;">Tech Stack</span>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
 ---
 
-### 📌 Featured Projects
+## 📌 <span style="font-size: 26px;">Projects</span>
 
 🔹 **[HotelRoyal](https://github.com/Imene-Amirat/hotelroyal)**  
 Web hotel booking platform with secured space, status management, and online payments.  
@@ -63,10 +61,15 @@ Responsive blog to publish articles with categories and login system.
 
 ---
 
-### 📬 Connect With Me
+## 📬 <span style="font-size: 26px;">Connect with me</span>
 
 <p align="center">
-  <a href="mailto:imene2004.amirat@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/imene-amirat"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Imene-Amirat"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/imene-amirat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  📩 Reach out to me at <a href="mailto:imene2004.amirat@gmail.com">imene2004.amirat@gmail.com</a>
 </p>
