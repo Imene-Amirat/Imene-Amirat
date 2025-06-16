@@ -8,9 +8,9 @@
 ---
 ## ✨ <span style="font-size: 26px;">About Me</span>
 
-- 🎓 Studying Software Engineering
-- 💻 Interested in Backend Systems, APIs, Databases & Dockerized apps
-- 🚀 Always learning & building cool fullstack projects
+- Studying Software Engineering
+- Interested in Backend Systems, APIs, Databases & Dockerized apps
+- Always learning & building cool fullstack projects
 
 ---
 
@@ -18,7 +18,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,lua,css,discord,figma,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,react,redux,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,java,js,mysql,py,figma,vscode,dart,flutter,flask,git,github,nodejs,postman,scss,tailwind,springboot,angular,gitlab,openproject&perline=14" />
   </a>
 </p>
 
@@ -55,9 +55,7 @@ Responsive blog to publish articles with categories and login system.
 
 <p align="center">
   <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/imene-amirat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/imene.amirat.2025" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
