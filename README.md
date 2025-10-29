@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Imene! 👋</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Imene-Amirat&label=Profile%20views&color=0e75b6&style=flat" alt="Imene-Amirat" />
+</p>
+
+<p align="center">
 🎓 Master's Student in Software Engineering | 💻 Backend & Fullstack Developer<br>
 🌍 Based in Algeria | 💡 Passionate about solving real-world problems using modern technologies.
 </p>
