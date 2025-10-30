@@ -58,8 +58,8 @@ Responsive blog to publish articles with categories and login system.
 ## 📬 <span style="font-size: 26px;">Connect with me</span>
 
 <p align="center">
-  <a href="https://facebook.com/" target="_blank"><img src="https:[//img.shields.io/badge/Facebook-1877F2](https://www.facebook.com/imene.amirat.2025/)?style=flat&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.facebook.com/imene.amirat.2025" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/imene.amirat.2025/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/imene-amirat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
